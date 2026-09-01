@@ -99,7 +99,8 @@ Blips
 Markers
 Notifications
 Item rewards
-📞 Contact
+
+## 📞 Contact
 
 Discord: oggiissa
 Instagram: @ognjen.n
