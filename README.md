@@ -19,6 +19,7 @@ A lightweight and configurable **FiveM Garbage Collector Job** with random route
 ## 📦 Requirements
 
 - [ZX_Core](https://github.com/OgnjenNikolic12334/ZX_Core)
+- `ox_lib`
 - `ox_target` *(optional)*
 - `qb-target` *(optional)*
 
