@@ -35,6 +35,9 @@ A lightweight and configurable **FiveM Garbage Collector Job** with random route
 ensure ZX_Core
 ensure ZX-GarbageJob
 Configure the resource through config.lua
+
+```
+
 ⚙️ Configuration
 
 You can configure:
@@ -101,4 +104,4 @@ Item rewards
 Discord: oggiissa
 Instagram: @ognjen.n
 
-<p align="center"> Made with ❤️ by Ognjen </p> ```
+<p align="center"> Made with ❤️ by Ognjen </p> 
