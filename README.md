@@ -64,18 +64,18 @@ qb-target
 💰 Payment
 
 Payment is configured per route:
-
+```
 Rework = {
     item = "money_item",
     caunt = 15
 }
-
+```
 The player receives payment after returning the garbage truck to the station.
 
 ## 🗺️ Routes
 
 Routes can easily be added or removed through config.lua:
-
+```
 Config.Routes = {
     {
         Zone = {
@@ -88,7 +88,7 @@ Config.Routes = {
         }
     }
 }
-
+```
 ## 🧩 ZX_Core
 
 ZX-GarbageJob requires ZX_Core.
